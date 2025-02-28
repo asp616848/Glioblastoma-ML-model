@@ -1,0 +1,16 @@
+name: Placeholder Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  do_nothing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print a message
+        run: echo "This is our ML Model repo!"

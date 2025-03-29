@@ -1,0 +1,672 @@
+ID,Gender,Age_at_scan_years,Survival_from_surgery_days_UPDATED,Survival_Status,Survival_Censor,IDH1,MGMT,KPS,GTR_over90percent,Time_since_baseline_preop,PsP_TP_score
+UPENN-GBM-00001_11,F,52.16,960,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00002_11,F,61.3,291,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00003_11,M,42.82,2838,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00004_11,M,33.43,623,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00005_11,M,53.33,1143,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00006_11,M,52.99,626,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00007_11,M,56.96,348,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00008_11,F,55.06,469,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00009_11,M,69.12,561,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00010_11,M,77.54,501,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00011_11,F,39.61,798,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00012_11,M,53.85,882,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00013_11,M,69.45,472,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00014_11,M,68.06,272,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00015_11,M,54.9,554,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00016_11,M,70.89,509,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00017_11,M,69.23,1297,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00018_11,F,57.21,1170,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00019_11,F,43.12,1358,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00020_11,M,50.86,425,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00021_11,F,49.04,510,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00022_11,F,53.88,1882,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Available,0,NA
+UPENN-GBM-00023_11,M,55.57,Not Available,Lost to Follow-up,1341,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00024_11,M,54.26,454,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00025_11,F,64.32,710,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00026_11,M,52.43,363,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00027_11,F,65.08,407,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00028_11,F,67.35,368,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00029_11,M,22.03,1504,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00030_11,M,66.81,502,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00031_11,M,65.92,2207,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00032_11,M,63.26,272,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00033_11,M,60.52,707,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00034_11,F,53.63,464,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00035_11,M,56.25,364,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00036_11,M,42.14,808,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00036_21,M,43.57,286,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,521,6
+UPENN-GBM-00037_11,M,58.41,664,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00038_11,M,57.99,268,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00039_11,F,64.5,2048,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00040_11,M,52.45,360,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00041_11,M,65.65,598,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00042_11,M,62.05,371,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00042_21,M,62.83,76,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Applicable,282,6
+UPENN-GBM-00043_11,M,63.48,172,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00044_11,M,63.41,379,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00045_11,F,50.8,538,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00045_21,F,51.11,419,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Applicable,113,2
+UPENN-GBM-00046_11,M,58.75,195,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00047_11,M,63.44,437,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00048_11,M,65.22,1159,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00049_11,M,57.67,224,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00050_11,M,54.04,662,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00051_11,F,60.21,781,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00051_21,F,61.26,401,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,385,6
+UPENN-GBM-00052_11,M,53.35,563,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00052_21,M,54.34,183,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,362,6
+UPENN-GBM-00053_11,M,64,396,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00054_11,F,39.88,412,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00055_11,M,57.87,74,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00055_21,M,57.96,39,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Applicable,31,5
+UPENN-GBM-00056_11,F,68.84,2516,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00057_11,M,65.95,673,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00058_11,M,50.92,392,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00059_11,M,56.53,369,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00060_11,M,59.07,445,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00061_11,M,60.22,851,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00062_11,M,61.4,427,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00063_11,F,80.8,1152,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00064_11,F,73.75,879,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00065_11,F,75.64,111,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00066_11,F,62.46,493,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00067_11,F,72.39,282,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00068_11,M,52.2,389,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Y,0,NA
+UPENN-GBM-00069_11,M,50.77,296,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00070_11,F,75.63,37,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00071_11,F,37.13,Not Available,Alive,6129,Mutated,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00072_11,F,59.79,553,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00073_11,M,68.99,291,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00074_11,M,56.51,1071,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00075_11,M,54.1,278,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00076_11,M,61.42,54,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00077_11,M,80.93,54,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00078_11,M,70.74,158,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Y,0,NA
+UPENN-GBM-00079_11,F,78.67,57,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00080_11,F,57.71,583,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00081_11,M,63,24,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00082_11,M,44.78,351,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Y,0,NA
+UPENN-GBM-00083_11,M,68.78,333,Deceased,Not Available,Wildtype,Not Available,60,Y,0,NA
+UPENN-GBM-00084_11,F,47.22,442,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00084_21,F,47.63,281,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Applicable,151,2
+UPENN-GBM-00085_11,M,48.18,Not Available,Alive,6135,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00086_11,M,70.81,146,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00086_21,M,71.13,30,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,116,4
+UPENN-GBM-00087_11,M,71.76,44,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00088_11,M,47.32,334,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00088_21,M,47.92,106,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Not Applicable,221,5
+UPENN-GBM-00089_11,M,77.37,1475,Deceased,Not Available,Wildtype,Not Available,90,Y,0,NA
+UPENN-GBM-00090_11,F,66.91,400,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00091_11,M,70.54,200,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00092_11,F,66.44,30,Deceased,Not Available,Wildtype,Unmethylated,80,Y,0,NA
+UPENN-GBM-00093_11,F,51.3,616,Deceased,Not Available,Wildtype,Unmethylated,70,Y,0,NA
+UPENN-GBM-00093_21,F,52.21,284,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,332,5
+UPENN-GBM-00094_11,M,65.95,383,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00095_11,M,61.15,289,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00096_11,F,63.58,20,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00097_11,M,57.01,709,Deceased,Not Available,Wildtype,Not Available,90,N,0,NA
+UPENN-GBM-00098_11,F,62.67,524,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00099_11,M,56.37,578,Deceased,Not Available,Wildtype,Not Available,90,Y,0,NA
+UPENN-GBM-00100_11,M,46.18,205,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00101_11,M,60.9,339,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00102_11,M,77.43,106,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00103_11,F,78.68,66,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00104_11,F,73.09,211,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00105_11,F,74.05,32,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00106_11,F,72.4,104,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00107_11,M,54.35,472,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00108_11,M,66.99,173,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00109_11,M,51.02,351,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00110_11,F,61.44,257,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00111_11,M,72.49,290,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00112_11,M,64.07,494,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00113_11,F,68.8,479,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00114_11,F,47.1,1302,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00115_11,F,72.36,87,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00116_11,M,56.56,65,Deceased,Not Available,Wildtype,Not Available,90,N,0,NA
+UPENN-GBM-00117_11,F,77.03,173,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00118_11,M,73.89,30,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Y,0,NA
+UPENN-GBM-00119_11,F,54.1,84,Deceased,Not Available,Wildtype,Indeterminate,80,Y,0,NA
+UPENN-GBM-00120_11,F,78.75,289,Deceased,Not Available,Wildtype,Unmethylated,90,N,0,NA
+UPENN-GBM-00121_11,M,58.52,226,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00122_11,M,64.22,284,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00122_21,M,64.85,47,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,229,4
+UPENN-GBM-00123_11,F,24.61,Not Available,Lost to Follow-up,488,Mutated,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00124_11,F,76.36,735,Deceased,Not Available,Wildtype,Methylated,100,N,0,NA
+UPENN-GBM-00125_11,F,23.96,1525,Deceased,Not Available,Wildtype,Unmethylated,100,Y,0,NA
+UPENN-GBM-00126_11,M,50.76,766,Deceased,Not Available,Wildtype,Indeterminate,Not Available,N,0,NA
+UPENN-GBM-00127_11,M,68.85,721,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00128_11,F,81.29,990,Deceased,Not Available,Wildtype,Methylated,90,Y,0,NA
+UPENN-GBM-00128_21,F,81.54,885,Deceased,Not Available,Wildtype,Methylated,Not Available,Not Applicable,92,6
+UPENN-GBM-00129_11,M,57.59,171,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00129_21,M,57.86,64,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Applicable,98,3
+UPENN-GBM-00130_11,M,52.5,831,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00130_21,M,53.71,384,Deceased,Not Available,Wildtype,Methylated,Not Available,Not Applicable,444,5
+UPENN-GBM-00131_11,M,76.3,852,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00132_11,M,48.02,922,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00133_11,M,73.2,744,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00133_21,M,73.72,537,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,190,5
+UPENN-GBM-00134_11,M,45.03,494,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00134_21,M,45.34,374,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,112,5
+UPENN-GBM-00135_11,M,55.59,879,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00136_11,M,64.65,211,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00137_11,M,47.47,320,Deceased,Not Available,Wildtype,Indeterminate,Not Available,N,0,NA
+UPENN-GBM-00138_11,F,60.66,1527,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00139_11,M,58.52,208,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00140_11,M,47.22,664,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00140_21,M,48.37,234,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,420,5
+UPENN-GBM-00141_11,M,78.41,528,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00141_21,M,78.95,321,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,196,4
+UPENN-GBM-00142_11,M,67.68,Not Available,Deceased - uncertain date of death,142,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00143_11,M,40.04,411,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00144_11,F,53.07,270,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00145_11,F,65.81,351,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00145_21,F,66.53,85,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,263,3
+UPENN-GBM-00146_11,M,48.74,1178,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00147_11,F,82.41,80,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00148_11,M,55.51,604,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00148_21,M,56.31,299,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,295,1
+UPENN-GBM-00149_11,F,69.3,233,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00150_11,F,55.95,733,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00150_21,F,56.4,551,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,165,5
+UPENN-GBM-00151_11,M,67.43,618,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00152_11,F,57.4,742,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00153_11,M,59.91,234,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00154_11,F,72.11,209,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00155_11,F,69.13,503,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00156_11,F,70.14,359,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00157_11,F,61.39,235,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00158_11,M,69.68,152,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00159_11,M,63.88,264,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00160_11,F,58.84,790,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00160_21,F,61,3,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Applicable,788,6
+UPENN-GBM-00161_11,F,59.81,80,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00162_11,F,73.49,557,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00163_11,F,63.78,2951,Deceased,Not Available,Wildtype,Indeterminate,Not Available,N,0,NA
+UPENN-GBM-00164_11,F,46.79,1193,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00165_11,M,66.64,44,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00166_11,F,52.31,388,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00167_11,M,65.36,94,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00168_11,M,76.99,93,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00169_11,F,72.09,23,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00170_11,M,51.79,505,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00171_11,M,68.93,846,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00172_11,M,63.02,457,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00173_11,M,75.76,233,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00174_11,M,37.3,1615,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00175_11,M,80.06,98,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00176_11,F,80.45,56,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00177_11,F,67.52,154,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00178_11,F,86.87,276,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00179_11,M,43.42,988,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00180_11,F,60.99,146,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00181_11,M,54.49,578,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00182_11,M,75.93,15,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00183_11,F,55.87,1829,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00183_21,F,57.64,1168,Deceased,Not Available,Wildtype,Methylated,Not Available,Not Applicable,648,6
+UPENN-GBM-00184_11,M,85.46,60,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00185_11,F,88.5,200,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00186_11,F,55.35,642,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00187_11,F,55.09,1346,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00188_11,M,44.46,Not Available,Lost to Follow-up,4049,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00189_11,F,69.46,382,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00190_11,M,56.66,136,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00191_11,F,57.63,51,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00192_11,M,61.66,1356,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00193_11,F,71.23,12,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00194_11,F,59.3,250,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00195_11,M,79.51,168,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00196_11,F,86.21,21,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00197_11,M,50.03,1227,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00197_21,M,52.79,215,Deceased,Not Available,Wildtype,Methylated,Not Available,Not Applicable,1010,6
+UPENN-GBM-00198_11,M,52.61,1008,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00199_11,F,43.97,591,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00200_11,M,82.36,122,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00201_11,M,52.84,182,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00202_11,M,79.27,346,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00203_11,M,59.44,122,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00204_11,M,54.24,374,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00205_11,F,83.59,277,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00206_11,F,64.24,586,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00207_11,F,61.71,301,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00208_11,M,45.87,622,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00209_11,F,68.42,1420,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00210_11,M,53.95,3,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00211_11,M,73.03,2307,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00212_11,M,85.74,485,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00213_11,M,76.37,73,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00214_11,M,74.52,505,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00215_11,M,65.07,155,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00216_11,F,59.29,167,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00217_11,M,73.29,393,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00218_11,F,77.97,151,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00219_11,M,67.31,453,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00219_21,M,68.28,98,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,355,6
+UPENN-GBM-00220_11,F,62.99,925,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00221_11,F,76.69,583,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00222_11,F,72.67,110,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00223_11,F,69.33,230,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00224_11,F,49.31,438,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00225_11,M,83.54,16,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00226_11,M,56.3,182,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00227_11,F,53.5,138,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00228_11,M,47.2,379,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00229_11,M,43.46,6109,Deceased,Not Available,Mutated,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00230_11,F,72.28,78,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00231_11,M,67.83,370,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00232_11,F,75.64,187,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00233_11,F,63.82,1039,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00234_11,M,62.82,370,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00235_11,F,80.6,253,Deceased,Not Available,Wildtype,Indeterminate,Not Available,N,0,NA
+UPENN-GBM-00236_11,F,76.22,480,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00237_11,M,63.62,200,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00238_11,F,65.89,1148,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00239_11,F,80.89,159,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00240_11,M,85.88,78,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00241_11,F,71.43,325,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00242_11,F,55.7,276,Deceased,Not Available,Wildtype,Not Available,90,N,0,NA
+UPENN-GBM-00243_11,F,66.43,419,Deceased,Not Available,Wildtype,Not Available,80,Y,0,NA
+UPENN-GBM-00244_11,M,59.75,420,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00245_11,F,63.42,533,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Y,0,NA
+UPENN-GBM-00246_11,M,75.06,51,Deceased,Not Available,Wildtype,Unmethylated,80,N,0,NA
+UPENN-GBM-00247_11,F,63.91,201,Deceased,Not Available,Wildtype,Not Available,80,N,0,NA
+UPENN-GBM-00248_11,F,45.71,Not Available,Alive,6160,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00249_11,F,28.2,1791,Deceased,Not Available,Mutated,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00250_11,F,59.79,460,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00251_11,F,75.67,167,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00252_11,F,67.86,443,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00253_11,F,86.95,349,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00254_11,M,57.08,400,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00255_11,F,64.86,80,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00256_11,F,67.2,115,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00257_11,M,51.04,136,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00258_11,M,50.71,Not Available,Alive,5977,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00259_11,F,80.31,193,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00260_11,F,86.64,106,Deceased,Not Available,Wildtype,Methylated,90,N,0,NA
+UPENN-GBM-00261_11,M,75.88,48,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Y,0,NA
+UPENN-GBM-00262_11,M,70.75,580,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00263_11,M,66.23,796,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00264_11,F,61.82,1145,Deceased,Not Available,Wildtype,Methylated,90,N,0,NA
+UPENN-GBM-00265_11,M,53.08,1062,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Y,0,NA
+UPENN-GBM-00266_11,F,66.84,390,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00267_11,F,55.13,537,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00267_21,F,55.61,351,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,176,2
+UPENN-GBM-00268_11,F,82.8,20,Deceased,Not Available,Wildtype,Indeterminate,Not Available,N,0,NA
+UPENN-GBM-00269_11,M,56.21,Not Available,Alive,3743,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00270_11,F,64.67,58,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00271_11,M,53.83,473,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00272_11,M,50.57,739,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00273_11,M,76.8,598,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00274_11,M,41.2,1021,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00275_11,M,46.9,454,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00276_11,M,18.65,Not Available,Lost to Follow-up,4491,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00277_11,M,55.68,403,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00278_11,F,63.42,437,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00279_11,M,68.34,655,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00280_11,M,57.12,538,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00280_21,M,58.41,64,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Applicable,472,2
+UPENN-GBM-00281_11,F,69.39,550,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00282_11,M,68.54,363,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00283_11,M,81,352,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00284_11,F,82.87,77,Deceased,Not Available,Wildtype,Indeterminate,60,N,0,NA
+UPENN-GBM-00285_11,F,59.98,427,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00285_21,F,60.26,326,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Applicable,103,6
+UPENN-GBM-00286_11,M,81.78,429,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00287_11,M,50.93,781,Deceased,Not Available,Mutated,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00288_11,M,79.63,31,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00289_11,F,28.83,445,Deceased,Not Available,Mutated,Indeterminate,Not Available,Y,0,NA
+UPENN-GBM-00290_11,F,82.36,409,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00291_11,M,58.61,530,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00292_11,M,83.48,29,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00293_11,M,60.4,127,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00294_11,F,60.37,112,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00295_11,M,65.19,696,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Y,0,NA
+UPENN-GBM-00295_21,M,65.67,463,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Not Applicable,178,5
+UPENN-GBM-00296_11,M,72.15,326,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00297_11,M,49.03,466,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00298_11,M,71.07,186,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00299_11,M,43.9,148,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00300_11,F,82.88,Not Available,Deceased - uncertain date of death,141,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00301_11,M,58.18,653,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00301_21,M,59.2,282,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,370,6
+UPENN-GBM-00302_11,M,59.99,1451,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00302_21,M,61.79,790,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,657,1
+UPENN-GBM-00303_11,F,78.58,658,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00304_11,M,71.06,428,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00305_11,M,76.88,92,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00306_11,M,51.81,165,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00307_11,F,57.03,412,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00307_21,F,57.28,330,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Applicable,91,4
+UPENN-GBM-00308_11,M,65.76,205,Deceased,Not Available,Wildtype,Not Available,90,Y,0,NA
+UPENN-GBM-00309_11,M,39.19,1034,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00310_11,F,75.43,75,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00311_11,F,73.14,489,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00312_11,M,57.99,334,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00312_21,M,58.72,40,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,266,1
+UPENN-GBM-00313_11,M,76.94,1723,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00314_11,M,56.39,1535,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00314_21,M,58.88,614,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,912,3
+UPENN-GBM-00315_11,F,70.72,1043,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00316_11,M,61.42,98,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00317_11,M,84.31,1130,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00318_11,M,52.52,494,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00319_11,M,42.88,710,Deceased,Not Available,Mutated,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00320_11,F,45.62,683,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00320_21,F,46.17,476,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,202,3
+UPENN-GBM-00321_11,F,85.46,79,Deceased,Not Available,Wildtype,Not Available,30,N,0,NA
+UPENN-GBM-00322_11,F,33.29,170,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00323_11,M,65.26,121,Deceased,Not Available,Wildtype,Indeterminate,Not Available,N,0,NA
+UPENN-GBM-00324_11,M,73.33,185,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00325_11,F,65.84,368,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00326_11,M,63.31,125,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00327_11,F,82.16,341,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00328_11,M,57.72,370,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00329_11,F,75.2,304,Deceased,Not Available,Wildtype,Not Available,80,N,0,NA
+UPENN-GBM-00330_11,M,86.59,74,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00331_11,F,63.02,748,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00332_11,F,59.47,558,Deceased,Not Available,Wildtype,Indeterminate,80,Y,0,NA
+UPENN-GBM-00332_21,F,60.7,103,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Not Applicable,450,4
+UPENN-GBM-00333_11,F,59.2,111,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00334_11,F,73.05,159,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Not Available,0,NA
+UPENN-GBM-00335_11,M,70.83,282,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00336_11,F,83.63,13,Deceased,Not Available,Wildtype,Unmethylated,70,Y,0,NA
+UPENN-GBM-00337_11,M,62.34,385,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00338_11,M,77.86,1483,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00339_11,M,71.01,2068,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00340_11,F,70.82,325,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00341_11,M,75.38,355,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00342_11,F,59.62,60,Deceased,Not Available,Wildtype,Indeterminate,Not Available,N,0,NA
+UPENN-GBM-00343_11,F,72.66,112,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00344_11,M,70.57,684,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00344_21,M,71.96,173,Deceased,Not Available,Wildtype,Methylated,Not Available,Not Applicable,505,5
+UPENN-GBM-00345_11,M,58.81,78,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00346_11,M,67.23,334,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00347_11,M,68.99,182,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00348_11,M,80.2,104,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00349_11,M,56.82,149,Deceased,Not Available,Wildtype,Not Available,80,N,0,NA
+UPENN-GBM-00350_11,M,64.78,622,Deceased,Not Available,Wildtype,Methylated,80,Not Available,0,NA
+UPENN-GBM-00351_11,F,62.48,2297,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00352_11,M,42.61,617,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00352_21,M,42.86,519,Deceased,Not Available,Wildtype,Methylated,Not Available,Not Applicable,91,4
+UPENN-GBM-00353_11,M,61.3,181,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00353_21,M,61.62,56,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,120,3
+UPENN-GBM-00354_11,M,73.4,351,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00354_21,M,74.28,28,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Not Applicable,323,4
+UPENN-GBM-00355_11,M,66,252,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00355_21,M,66.6,28,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,221,3
+UPENN-GBM-00356_11,M,71.63,996,Deceased,Not Available,Wildtype,Methylated,100,N,0,NA
+UPENN-GBM-00357_11,F,88,124,Deceased,Not Available,Wildtype,Indeterminate,Not Available,N,0,NA
+UPENN-GBM-00358_11,M,83.46,87,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00359_11,F,78.89,93,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00360_11,M,57.19,613,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00361_11,F,63.87,106,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00362_11,F,78.09,142,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00363_11,M,65.4,404,Deceased,Not Available,Wildtype,Methylated,90,Y,0,NA
+UPENN-GBM-00364_11,F,62.63,383,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00365_11,M,33.11,Not Available,Alive,3226,Mutated,Indeterminate,Not Available,Y,0,NA
+UPENN-GBM-00366_11,F,71.41,213,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00367_11,M,50.86,538,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00368_11,M,65.34,416,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00369_11,F,51.75,360,Deceased,Not Available,Wildtype,Unmethylated,90,N,0,NA
+UPENN-GBM-00370_11,M,68.38,443,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00371_11,M,73.62,240,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00372_11,F,62.16,133,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00373_11,F,45.54,524,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00374_11,F,66.65,376,Deceased,Not Available,Wildtype,Not Available,60,N,0,NA
+UPENN-GBM-00375_11,F,54.44,319,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00376_11,M,63.59,730,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00377_11,F,83.01,589,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00378_11,M,59.92,451,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00379_11,M,59.66,114,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00380_11,M,56.37,516,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00381_11,M,65.53,63,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00382_11,F,67.73,14,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00383_11,M,56.96,498,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00384_11,M,63.2,373,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00385_11,M,57.26,21,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00386_11,F,69.7,216,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Y,0,NA
+UPENN-GBM-00387_11,M,51.81,455,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00388_11,M,74.85,1020,Deceased,Not Available,Wildtype,Methylated,90,N,0,NA
+UPENN-GBM-00389_11,M,67.91,114,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00390_11,M,62.89,443,Deceased,Not Available,Wildtype,Unmethylated,90,N,0,NA
+UPENN-GBM-00391_11,M,57.63,93,Deceased,Not Available,Wildtype,Unmethylated,90,N,0,NA
+UPENN-GBM-00392_11,M,63.43,1730,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00393_11,F,68.96,336,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00394_11,F,56.16,322,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00395_11,M,65.52,2578,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00396_11,M,47.58,341,Deceased,Not Available,Wildtype,Not Available,90,Y,0,NA
+UPENN-GBM-00397_11,F,71.55,2694,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00398_11,M,69.36,342,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00399_11,M,60.67,338,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00400_11,F,83.43,480,Deceased,Not Available,Wildtype,Not Available,100,N,0,NA
+UPENN-GBM-00401_11,F,65.75,635,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00402_11,F,64.16,503,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00403_11,M,68.19,191,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00404_11,M,66.36,688,Deceased,Not Available,Wildtype,Methylated,40,Y,0,NA
+UPENN-GBM-00405_11,F,66.34,57,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00406_11,M,71.33,355,Deceased,Not Available,Wildtype,Methylated,90,N,0,NA
+UPENN-GBM-00407_11,M,66.52,201,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00408_11,F,59.47,565,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00409_11,F,72.71,510,Deceased,Not Available,Wildtype,Methylated,80,Y,0,NA
+UPENN-GBM-00410_11,M,47.9,423,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00411_11,M,52.12,531,Deceased,Not Available,Wildtype,Unmethylated,70,Y,0,NA
+UPENN-GBM-00412_11,M,63.11,862,Deceased,Not Available,Wildtype,Methylated,100,N,0,NA
+UPENN-GBM-00413_11,M,48.47,827,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00414_11,M,82.67,249,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00415_11,F,62.53,100,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00416_11,F,37.53,Not Available,Alive,2675,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00417_11,F,59.76,1863,Deceased,Not Available,Wildtype,Indeterminate,Not Available,Y,0,NA
+UPENN-GBM-00418_11,F,49.61,1410,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00419_11,M,59.89,518,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00420_11,F,63.36,1941,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00421_11,M,60.7,765,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00422_11,M,67.7,Not Available,Alive,2792,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00423_11,F,77.45,303,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00424_11,M,80.46,Not Available,Deceased - uncertain date of death,24,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00425_11,M,74.89,Not Available,Alive,2930,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00426_11,M,55.17,820,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00427_11,F,73.15,136,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00428_11,M,64.76,374,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00429_11,M,73.66,166,Deceased,Not Available,Wildtype,Not Available,80,N,0,NA
+UPENN-GBM-00430_11,F,53.04,Not Available,Alive,2808,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00431_11,F,79.94,125,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00432_11,F,60.63,582,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00433_11,M,45.23,626,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00434_11,F,66.18,70,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00435_11,F,56.94,205,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Available,0,NA
+UPENN-GBM-00436_11,F,67.09,389,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00437_11,F,53.02,82,Deceased,Not Available,Wildtype,Indeterminate,Not Available,N,0,NA
+UPENN-GBM-00438_11,M,81.77,117,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00439_11,F,47.21,264,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00440_11,M,54.22,1570,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00441_11,M,65.03,619,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00442_11,F,80.36,90,Deceased,Not Available,Wildtype,Methylated,60,N,0,NA
+UPENN-GBM-00443_11,M,78.4,60,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00444_11,M,25.48,Not Available,Alive,2402,Mutated,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00445_11,F,60.23,284,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00446_11,F,67.67,831,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00447_11,M,78.7,248,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00448_11,M,62.34,288,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00449_11,M,48.97,742,Deceased,Not Available,Wildtype,Unmethylated,80,N,0,NA
+UPENN-GBM-00450_11,M,59.37,764,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00451_11,F,64.83,Not Available,Alive,2309,Wildtype,Indeterminate,Not Available,Not Available,0,NA
+UPENN-GBM-00452_11,M,53.19,680,Deceased,Not Available,Wildtype,Unmethylated,70,Y,0,NA
+UPENN-GBM-00453_11,M,69.45,1052,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00454_11,F,71.65,136,Deceased,Not Available,Wildtype,Unmethylated,80,N,0,NA
+UPENN-GBM-00455_11,M,60.82,516,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00456_11,M,63.99,149,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00457_11,M,66.58,1299,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00458_11,M,57.8,575,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00459_11,M,38.9,693,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00460_11,M,61.94,620,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00461_11,M,64.1,1255,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00462_11,F,71.61,568,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00463_11,M,65.97,738,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00464_11,F,25.57,479,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00465_11,M,58.92,1208,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00466_11,M,73.59,651,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00467_11,M,55.42,251,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00468_11,M,79.32,196,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00469_11,F,51.54,578,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00470_11,M,60.59,316,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00471_11,M,69.2,114,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00472_11,F,58.86,1279,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00473_11,F,20.74,36,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00474_11,M,67.63,692,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00475_11,M,62.74,44,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00476_11,M,60.63,516,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00477_11,M,55.09,1323,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00478_11,M,63.03,117,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00479_11,F,64.28,168,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Available,0,NA
+UPENN-GBM-00480_11,M,45.97,256,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00481_11,F,51.23,601,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00482_11,F,48.71,610,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00483_11,F,61.02,192,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00484_11,F,61.05,902,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00485_11,F,25.7,1582,Deceased,Not Available,Mutated,Not Available,Not Available,N,0,NA
+UPENN-GBM-00486_11,F,71.68,371,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00487_11,M,60.38,395,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00488_11,M,64.91,370,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00489_11,M,68.86,175,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00490_11,M,74.58,821,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Available,0,NA
+UPENN-GBM-00491_11,F,65.25,16,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00492_11,F,56.25,397,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00493_11,F,70.49,482,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00494_11,M,51.56,480,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00495_11,M,67.92,483,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00496_11,F,54.26,681,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00497_11,M,45.31,859,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00498_11,F,57.61,493,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00499_11,M,75.08,648,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00500_11,F,62.97,596,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00501_11,M,77.52,1025,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00502_11,F,22.79,99,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00503_11,F,23.61,Not Available,Alive,2489,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00504_11,M,48.81,1125,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00505_11,M,69.17,590,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00506_11,M,49.4,1722,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00507_11,M,83.37,187,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00508_11,M,56.07,572,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Available,0,NA
+UPENN-GBM-00509_11,F,68.75,710,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00510_11,M,76.2,74,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00511_11,M,68.57,1335,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00512_11,M,74.45,496,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00513_11,M,76.86,50,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00514_11,M,68.67,1205,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00515_11,M,49.52,170,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00516_11,F,58.98,188,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00517_11,M,53.34,285,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00518_11,M,51.47,1201,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00519_11,M,32.93,468,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00520_11,M,83.61,122,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00521_11,F,64.21,1050,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00522_11,M,66.16,199,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00523_11,F,60.06,637,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00524_11,M,72.97,53,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00525_11,M,76.15,157,Deceased,Not Available,Wildtype,Unmethylated,90,N,0,NA
+UPENN-GBM-00526_11,F,75.19,32,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00527_11,M,71.76,248,Deceased,Not Available,Wildtype,Unmethylated,80,N,0,NA
+UPENN-GBM-00528_11,M,43.53,598,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00529_11,M,73.05,85,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00530_11,M,60.66,521,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00531_11,M,78.21,448,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Available,0,NA
+UPENN-GBM-00532_11,F,56.09,497,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00533_11,F,61.89,784,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00534_11,F,61.74,707,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00535_11,F,72.25,215,Deceased,Not Available,Wildtype,Unmethylated,60,N,0,NA
+UPENN-GBM-00536_11,M,66.7,462,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00537_11,M,77.39,127,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00538_11,M,56.26,1170,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00539_11,F,61.42,824,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00540_11,M,70.81,343,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00541_11,M,52.97,471,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00542_11,M,65.51,414,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00543_11,M,73.86,7,Deceased,Not Available,Wildtype,Not Available,90,N,0,NA
+UPENN-GBM-00544_11,M,73.91,376,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00545_11,F,73.72,37,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00546_11,M,67.11,127,Deceased,Not Available,Wildtype,Methylated,40,N,0,NA
+UPENN-GBM-00547_11,M,67.72,121,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Available,0,NA
+UPENN-GBM-00548_11,M,67.5,356,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00549_11,F,61.33,490,Deceased,Not Available,Wildtype,Unmethylated,90,Y,0,NA
+UPENN-GBM-00550_11,M,72.03,166,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00551_11,M,71.27,376,Deceased,Not Available,Wildtype,Methylated,70,N,0,NA
+UPENN-GBM-00552_11,M,78.13,384,Deceased,Not Available,Wildtype,Unmethylated,80,N,0,NA
+UPENN-GBM-00553_11,F,59.62,1454,Deceased,Not Available,Mutated,Methylated,Not Available,N,0,NA
+UPENN-GBM-00554_11,M,51.24,376,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00555_11,M,72.82,302,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00556_11,M,73.05,434,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00557_11,F,59.21,350,Deceased,Not Available,Mutated,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00558_11,F,79.16,430,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00559_11,F,73.32,449,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00560_11,M,67.95,273,Deceased,Not Available,Wildtype,Unmethylated,80,N,0,NA
+UPENN-GBM-00561_11,F,72.82,80,Deceased,Not Available,Wildtype,Indeterminate,Not Available,N,0,NA
+UPENN-GBM-00562_11,M,81.42,33,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00563_11,M,28.11,36,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00564_11,M,36.32,1029,Deceased,Not Available,Mutated,Methylated,Not Available,N,0,NA
+UPENN-GBM-00565_11,F,58.63,1403,Deceased,Not Available,Wildtype,Methylated,Not Available,Not Available,0,NA
+UPENN-GBM-00566_11,M,67.77,Not Available,Alive,2102,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00567_11,M,38.86,1067,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00568_11,M,71.62,1128,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00569_11,M,41.24,Not Available,Alive,2061,Mutated,Methylated,Not Available,N,0,NA
+UPENN-GBM-00570_11,M,64.79,259,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00571_11,F,75.39,81,Deceased,Not Available,NOS/NEC,Not Available,Not Available,N,0,NA
+UPENN-GBM-00572_11,F,74.22,104,Deceased,Not Available,Wildtype,Unmethylated,90,N,0,NA
+UPENN-GBM-00573_11,F,60.73,203,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00574_11,M,76.13,234,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00575_11,F,76.93,153,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00576_11,M,87.59,440,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00577_11,F,64.92,685,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00578_11,M,67.87,497,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00579_11,F,58.51,577,Deceased,Not Available,Wildtype,Methylated,Not Available,Not Available,0,NA
+UPENN-GBM-00580_11,F,68.11,1431,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00581_11,M,54.63,324,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00582_11,M,78.03,430,Deceased,Not Available,Wildtype,Not Available,80,Y,0,NA
+UPENN-GBM-00583_11,M,51.88,123,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00584_11,M,75.32,944,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00585_11,M,60.48,147,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00586_11,F,70.64,Not Available,Alive,1921,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00587_11,M,63.68,154,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00588_11,M,61.97,61,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00589_11,M,80.93,26,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00590_11,F,69.22,297,Deceased,Not Available,Wildtype,Unmethylated,90,N,0,NA
+UPENN-GBM-00591_11,M,75.92,59,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Available,0,NA
+UPENN-GBM-00592_11,F,52.33,1579,Deceased,Not Available,Mutated,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00593_11,M,57.82,223,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00594_11,M,52.3,899,Deceased,Not Available,Wildtype,Methylated,80,N,0,NA
+UPENN-GBM-00595_11,M,69.12,Not Available,Lost to Follow-up,203,Wildtype,Methylated,Not Available,Not Available,0,NA
+UPENN-GBM-00596_11,F,81.95,46,Deceased,Not Available,Wildtype,Unmethylated,60,Not Available,0,NA
+UPENN-GBM-00597_11,F,61.92,381,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00598_11,F,61.56,771,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00599_11,M,60.01,466,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00600_11,M,51.52,594,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00601_11,M,59.69,435,Deceased,Not Available,Wildtype,Not Available,Not Available,Y,0,NA
+UPENN-GBM-00602_11,M,77.19,252,Deceased,Not Available,Wildtype,Methylated,Not Available,Not Available,0,NA
+UPENN-GBM-00603_11,M,57.72,Not Available,Lost to Follow-up,26,Wildtype,Not Available,70,N,0,NA
+UPENN-GBM-00604_11,F,62,234,Deceased,Not Available,Wildtype,Unmethylated,90,Not Available,0,NA
+UPENN-GBM-00605_11,M,60.38,1565,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Y,0,NA
+UPENN-GBM-00606_11,M,58.12,1055,Deceased,Not Available,Wildtype,Methylated,Not Available,Y,0,NA
+UPENN-GBM-00607_11,F,68.15,1025,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00608_11,F,79.9,666,Deceased,Not Available,Wildtype,Methylated,Not Available,N,0,NA
+UPENN-GBM-00609_11,M,29.01,138,Deceased,Not Available,Wildtype,Unmethylated,Not Available,N,0,NA
+UPENN-GBM-00610_11,M,47.44,Not Available,Alive,1770,Mutated,Not Available,Not Available,Not Available,0,NA
+UPENN-GBM-00611_11,M,58.09,551,Deceased,Not Available,Wildtype,Not Available,Not Available,N,0,NA
+UPENN-GBM-00612_21,M,43.27,80,Deceased,Not Available,Mutated,Methylated,Not Available,Not Applicable,Not Available,6
+UPENN-GBM-00613_21,M,64.36,76,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,418,6
+UPENN-GBM-00614_21,F,63.73,372,Deceased,Not Available,NOS/NEC,Not Available,Not Available,Not Applicable,316,4
+UPENN-GBM-00615_21,M,33.23,636,Deceased,Not Available,Mutated,Not Available,Not Available,Not Applicable,861,6
+UPENN-GBM-00616_21,F,52.02,159,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,1078,6
+UPENN-GBM-00617_21,F,54.56,240,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,402,6
+UPENN-GBM-00618_21,M,32.77,124,Deceased,Not Available,Mutated,Unmethylated,Not Available,Not Applicable,378,6
+UPENN-GBM-00619_21,M,37.79,483,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,186,3
+UPENN-GBM-00620_21,M,38.99,Not Available,Lost to Follow-up,165,Wildtype,Indeterminate,Not Available,Not Applicable,1762,5
+UPENN-GBM-00621_21,F,62.61,84,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,176,5
+UPENN-GBM-00622_21,F,66.4,24,Deceased,Not Available,Wildtype,Methylated,Not Available,Not Applicable,Not Available,6
+UPENN-GBM-00623_21,M,52.03,2021,Deceased,Not Available,Wildtype,Methylated,Not Available,Not Applicable,155,3
+UPENN-GBM-00624_21,M,44.33,493,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,Not Available,5
+UPENN-GBM-00625_21,F,48.75,376,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,Not Available,3
+UPENN-GBM-00626_21,F,57.19,288,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,234,5
+UPENN-GBM-00627_21,F,57.4,365,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,Not Available,4
+UPENN-GBM-00628_21,M,55.09,79,Deceased,Not Available,Wildtype,Not Available,Not Available,Not Applicable,Not Available,6
+UPENN-GBM-00629_21,M,71.44,66,Deceased,Not Available,Wildtype,Unmethylated,Not Available,Not Applicable,Not Available,6
+UPENN-GBM-00630_21,M,65.47,35,Deceased,Not Available,Wildtype,Methylated,Not Available,Not Applicable,Not Available,2

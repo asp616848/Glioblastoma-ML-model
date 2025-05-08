@@ -1,0 +1,16 @@
+Term,Represents,Values
+ID,"DICOM (0010,0020) PatientID",
+Sex,"DICOM (0010,0040) Patient Sex","M,F"
+Age at MRI,Age in years at time of MR imaging,
+WHO CNS Grade,Grade per the 2021 World Health Organization Classification of Tumors of the Central Nervous System (WHO CNS 2021) (https://doi.org/10.1093/neuonc/noab106),"2,3,4"
+Final pathologic diagnosis (WHO 2021),Final (integrated) pathologic diagnosis per the 2021 World Health Organization Classification of Tumors of the Central Nervous System (WHO CNS 2021) (https://doi.org/10.1093/neuonc/noab106),"Glioblastoma, Isocitrate dehydrogenase (IDH) -wildtype  ; Astrocytoma, IDH-mutant ; Astrocytoma, IDH-wildtype ; Oligodendroglioma, IDH-mutant, 1p/19q-codeleted"
+MGMT status,O6-methylguanine-DNA methyltransferase status - clinical interpretation of the MGMT index described below.,"negative, positive, indeterminate"
+MGMT index,"O6-methylguanine-DNA methyltransferase methylation index (in house method developed by UCSF clinical labs, https://genomics.ucsf.edu/content/mgmt-promoter-methylation-assay) where numeric values 0-17 indicate the number of promoter methylation sites.","0-17, blank"
+1p/19q,"presence of codeletion of 1p and 19q genes, assayed by fluorescent in-situ hybridization","intact, co-deletion, relative co-deletion, unknown"
+IDH,isocitrate dehydrogenase mutation subtype characterized with a capture-based targeted next-generation DNA sequencing panel (UCSF500) as described in (https://doi.org/10.1093/neuonc/now254),
+1-dead 0-alive,Survival status of the patient at last clinical follow up.,
+OS,Overall survival in days from initial diagnosis to last clinical follow up.,
+EOR,Extent of resection determined by review of operative reports and immediate postoperative imaging.,biopsy (only a biopsy was performed)
+,,STR  (subtotal resection)
+,,GTR  (gross total resection)
+Biopsy prior to imaging,Was a burr-hole biopsy performed prior to MRI acquisition?,"yes , no,  blank"
